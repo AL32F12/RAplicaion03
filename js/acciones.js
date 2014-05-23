@@ -14,4 +14,12 @@
 	$('#B_Rex').tap(function (e) {
  	 $.mobile.navigate( "#Rex" );
 	});
+	
+	$('#B_triceraptops').tap(function (e) {
+ 	 $.mobile.navigate( "#plesiosaurio" );
+	});
+	
+	$('#B_acercade').tap(function (e) {
+ 	 $.mobile.navigate( "#acercade" );
+	});
 });//ready
